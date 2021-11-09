@@ -1,4 +1,4 @@
-﻿# space-invaders
+﻿# Space Invaders
  
  Игра Space-Invaders.
  
