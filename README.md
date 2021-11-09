@@ -1,6 +1,6 @@
 ﻿# Space Invaders
  
- Игра Space-Invaders.
+ Игра Space Invaders.
  
  
   [Ссылка на игру](https://javarush.ru/projects/apps/195861)
